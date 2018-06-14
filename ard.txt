@@ -1,0 +1,11 @@
+CNC Plotter bu T.A.Vignesh
+download the source code 
+download prossecing 2.2.1
+download the plotter arduino code
+alter the code as you want
+upload the code to arduino using arduino ide
+connect accrding to circut 
+make the construction
+run
+ENJOY!
+you can also use 2nos l298 module insted of l293d
